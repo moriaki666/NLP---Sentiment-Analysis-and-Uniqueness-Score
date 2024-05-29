@@ -1,4 +1,4 @@
-# NLP---Sentiment-Analysis-and-Uniqueness-Score
+# NLP---Sentiment-Analysis-and-Uniqueness-Score for CHESS – Center for Higher Education and Science Studies UZH 
 Preprocessing , tokenisation and Sentiment Analysis using BERT on dataset of 1000 textual descriptions. Followed by calculation of a uniqueness score.
 
 A. ​Preprocessing steps before tokenization using BERT.
